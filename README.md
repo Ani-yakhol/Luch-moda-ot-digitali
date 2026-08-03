@@ -164,3 +164,8 @@
 =======================================================
    dist\LuachModaot\          ← תיקייה שלמה (exe + _internal)
    (אופציונלי) dist\LuachModaot_Manager\  ← אם קומפלת בנפרד
+
+# תמונות
+
+<img width="1920" height="1080" alt="לוח מודעות דיגטלי 1" src="https://github.com/user-attachments/assets/5a541f5a-5d06-46ae-86df-2cd037e4d1c8" />
+<img width="1258" height="849" alt="לוח מודעות דיגטלי 2" src="https://github.com/user-attachments/assets/f4e0ef10-3a6c-487e-8eb4-618f61dd4365" />
